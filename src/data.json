@@ -1,0 +1,24 @@
+[
+{
+  "id": "AS13134",
+  "judul": "Riyadhus Sholihin",
+  "nama_ustadz": "Ustadz Abu Haidar as-Sundawy",
+  "tanggal": "27-09-2020",
+  "waktu": {
+        "mulai": "08.00",
+        "selesai": "09.30"
+        },
+  "jenis_siaran": "LIVE"
+},
+{
+  "id": "ZS13135",
+  "judul": "Kajian Islam Tematik",
+  "nama_ustadz": "Asatidz",
+  "tanggal": "27-09-2020",
+  "waktu": {
+        "mulai": "13.00",
+        "selesai": null
+        },
+  "jenis_siaran": "Siaran Ulang"
+}
+]
